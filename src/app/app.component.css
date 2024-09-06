@@ -1,0 +1,11 @@
+button{
+    margin: 10px;
+
+}
+.container{
+    align-items: center;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+
+}

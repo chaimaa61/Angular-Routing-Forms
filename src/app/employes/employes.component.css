@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    
+}
+input{
+    margin: 6px;
+    border: 0;
+    background-color: rgb(169, 247, 247);
+    border-radius: 7px;
+}

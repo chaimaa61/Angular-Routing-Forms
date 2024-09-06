@@ -1,4 +1,7 @@
 import { Component } from '@angular/core';
+import { NzButtonSize } from 'ng-zorro-antd/button';
+
+
 
 @Component({
   selector: 'app-root',
@@ -6,5 +9,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  
   title = 'routing-demo';
+  size: NzButtonSize = 'large';
 }
